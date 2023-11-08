@@ -35,7 +35,7 @@ Please note that this autocatcher requires NODEJS installed on your system or in
 
 #### <b>Running the bot</b>
 To start up the bot for the first time, STAR THIS REPO then clone the repo by this link to your local machine or replit (wherever you wish) [click here](https://github.com/AkshatOP/Poketwo-Autocatcher.git) 
-Once you have done that hit `npm install` in console.
+Once you have done that hit  in console.
 
 ## **Specific Channel Support**
 If you want to run the bot so that it catches only in specific channels then Head over to LINE 17 of #index.js and fill the array with channel IDs of those channel you want to catch in.
