@@ -1,5 +1,5 @@
 {
-  "name": "Poketwo-Autocatcher",
+  "name": "poketwo-autocatcher",
   "version": "1.3.0",
   "description": "bot to help users with catching pokemons",
   "main": "index.js",
@@ -15,5 +15,6 @@
     "express": "^4.18.2",
     "ocr-space-api-wrapper": "^2.3.0",
     "pokehint": "^1.1.7"
-  }
+  },
+  "devDependencies": {}
 }
